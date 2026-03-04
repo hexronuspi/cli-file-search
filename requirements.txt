@@ -1,0 +1,7 @@
+sentence-transformers
+rank_bm25
+faiss-cpu
+pandas
+numpy
+python-dotenv
+requests
