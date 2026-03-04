@@ -5,3 +5,4 @@ pandas
 numpy
 python-dotenv
 requests
+litellm
