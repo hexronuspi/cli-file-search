@@ -1,3 +1,14 @@
+## Examples
+
+![Screenshot 1](https://raw.githubusercontent.com/hexronuspi/cli-file-search/main/examples/Screenshot%202026-03-04%20055358.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/hexronuspi/cli-file-search/main/examples/Screenshot%202026-03-04%20055408.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/hexronuspi/cli-file-search/main/examples/Screenshot%202026-03-04%20060539.png)
+
+![Screenshot 4](https://raw.githubusercontent.com/hexronuspi/cli-file-search/main/examples/Screenshot%202026-03-04%20060642.png)
+____________________________________
+
 ## 1. Query Input
 **User Query:**  
 `q = "find the file where I have stored my SBI password"`
@@ -67,3 +78,4 @@ The LLM analyzes the content and selects the best match.
 
 **System Output:**  
 `File Found: data/password/sbi.txt`
+
